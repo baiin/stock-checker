@@ -1,3 +1,4 @@
+# stock checker
 import requests
 import tkinter
 import bs4
